@@ -9,7 +9,7 @@ A social network designed for students, allowing them to share school notes with
 The project consisted of a separate frontend and backend:
 
 - **Frontend** (developed by [Pietro Tombaccini](https://github.com/pietombic))  
-- **Backend** (developed by me)
+- **Backend** (developed by [Giuliano Manzi](https://github.com/TheRealGtx))
 
 Although the UI was not finished, the **backend is fully operational**, and all **API endpoints** work as intended.  
 The system was designed to be modular and scalable, built using a microservices architecture with an access gateway.
